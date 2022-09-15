@@ -19,7 +19,7 @@
 <br>  
 
 - BAY - CTF DIVISION
-<br>
+
 
 |USERNAME|HELD STREAM|Profession(s)|
 |:------:|:---------:|:--------:|
@@ -33,7 +33,7 @@
 
 
 - BAY - CSGO DIVISION
-<br>
+
 
 |USERNAME|ROLES|
 |:------:|:---------:|
