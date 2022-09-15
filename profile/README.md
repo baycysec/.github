@@ -16,7 +16,6 @@
 <details>
 
 <summary> CLICK HERE </summary>
-
 <br>  
 
 <summary> BAY - CTF DIVISION </summary>
