@@ -18,7 +18,7 @@
 <summary> CLICK HERE </summary>
 <br>  
 
-<summary> BAY - CTF DIVISION </summary>
+- BAY - CTF DIVISION
 <br>
 
 |USERNAME|HELD STREAM|Profession(s)|
@@ -32,7 +32,7 @@
 |[SSV132](https://github.com/SSV132)|Forensic - Reverse Engineering|College Student - Web Developer|
 
 
-<summary> BAY - CSGO DIVISION </summary>
+- BAY - CSGO DIVISION
 <br>
 
 |USERNAME|ROLES|
