@@ -10,7 +10,7 @@
 
 
 
-## MEET THE AGENTS
+## AGENTS & SHOOTERS
 
 > CLICK THE BUTTON BELOW TO VIEW (!)
 <details>
@@ -27,12 +27,7 @@
 |[stephanchandra](https://github.com/stephanchandra)|Binary Exploitation|College Student - Mentor|
 |[SSV132](https://github.com/SSV132)|Forensic - Reverse Engineering|College Student - Web Developer|
 
-</details>
 
-## MEET THE SHOOTERS
-
-> CLICK THE BUTTON BELOW TO VIEW (!)
-<details>
 <summary> BAY - CSGO DIVISION </summary>
 <br>
 
@@ -41,6 +36,7 @@
 |[jon-brandy](https://github.com/jon-brandy)|IGL - AWPer|
 |[RioFerdinand25](https://github.com/RioFerdinand25)|AWPer - Lurker|
 |[PlasmaRing](https://github.com/PlasmaRing)|Entry Fragger - Support|
+
 
 </details>
 
