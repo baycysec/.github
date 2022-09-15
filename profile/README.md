@@ -6,7 +6,9 @@
 
 ## ABOUT BAY
 
-**BAY** is a computer club formed by 4 college students who are a mixture of cybersecurity and computer science majors. BAY was formed on June 22, 2022 and focuses on the `CTF` field which is a cybersecurity competition and the `Counter Strike Global Offensive` field which is a competitive fps game.
+**BAY** is a computer club formed by 4 college students who are a mixture of cybersecurity and computer science majors. BAY was formed on June 22, 2022 and focuses on the `CTF` field which is a cybersecurity competition and the `Counter Strike Global Offensive` field which is a competitive fps game. Now for the CTF division **we have 7 agents** who are active in their respective CTF fields and for the CSGO division, **BAY has 5 active shooters** in their respective roles.
+
+
 
 ## MEET THE AGENTS
 
