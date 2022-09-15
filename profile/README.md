@@ -18,8 +18,8 @@
 <summary> CLICK HERE </summary>
 <br>  
 
-- BAY - CTF DIVISION
-
+|BAY - CTF DIVISION|
+|:----------------:|  
 
 |USERNAME|HELD STREAM|Profession(s)|
 |:------:|:---------:|:--------:|
@@ -31,9 +31,8 @@
 |[stephanchandra](https://github.com/stephanchandra)|Binary Exploitation|College Student - Mentor|
 |[SSV132](https://github.com/SSV132)|Forensic - Reverse Engineering|College Student - Web Developer|
 
-
-- BAY - CSGO DIVISION
-
+|BAY - CSGO DIVISION|
+|:-----------------:| 
 
 |USERNAME|ROLES|
 |:------:|:---------:|
