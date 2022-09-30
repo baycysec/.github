@@ -31,15 +31,6 @@
 |[stephanchandra](https://github.com/stephanchandra)|Binary Exploitation|College Student - Mentor|
 |[SSV132](https://github.com/SSV132)|Forensics - Reverse Engineering|College Student - Web Developer|
 
-|BAY - CSGO DIVISION|
-|:-----------------:| 
-
-|USERNAME|ROLES|
-|:------:|:---------:|
-|[jon-brandy](https://github.com/jon-brandy)|IGL - AWPer|
-|[RioFerdinand25](https://github.com/RioFerdinand25)|AWPer - Lurker|
-|[PlasmaRing](https://github.com/PlasmaRing)|Entry Fragger - Support|
-
 
 </details>
 
