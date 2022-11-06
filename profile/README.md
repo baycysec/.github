@@ -6,7 +6,7 @@
 
 ## ABOUT BAY
 
-**BAY** is a computer club formed by 4 college students who are a mixture of cybersecurity and computer science majors. BAY was formed on June 22, 2022 and focused on creating content related to cyber security on Instagram and  `CTF` field which is a cybersecurity competition. Now for the CTF division **we have 7 agents** who are active in their respective CTF fields.
+**BAY** is a computer club formed by 4 college students who are a mixture of cybersecurity and computer science majors. BAY was formed on June 22, 2022 and focused on creating content related to cyber security field on Instagram and  `CTF` field which is a cybersecurity competition. Now for the CTF division **we have 8 agents** who are active in their respective CTF fields.
 
 
 
