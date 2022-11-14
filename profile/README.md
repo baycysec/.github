@@ -12,7 +12,6 @@
 
 ## AGENTS
 
-> CLICK THE BUTTON BELOW TO VIEW (!)
 <details>
 
 <summary> CLICK HERE </summary>
