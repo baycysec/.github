@@ -43,17 +43,9 @@
 <summary> LINK </summary>
 <br>
 
-|picoCTF|
-|:--:|
-|[Click Here](https://github.com/Bread-Yolk/bayctfwu)|
-
-|CTFLEARN|
-|:------:|
-|[Click Here](https://github.com/Bread-Yolk/ctflearnwu)|
-
-|COMPFEST14HackerClass|
-|:-------------------:|
-|[Click Here](https://github.com/Bread-Yolk/compfest14hackerclass)|
+|picoCTF|CTFLEARN|COMPFEST14HackerClass|
+|:-----:|:------:|:-------------------:|
+|[Click Here](https://github.com/Bread-Yolk/bayctfwu)|[Click Here](https://github.com/Bread-Yolk/ctflearnwu)|[Click Here](https://github.com/Bread-Yolk/compfest14hackerclass)|
 
 
 
