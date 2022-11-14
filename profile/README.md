@@ -39,7 +39,7 @@
 
 <details>
 
-<summary> LINK </summary>
+<summary> CLICK HERE </summary>
 <br>
 
 |picoCTF|CTFLEARN|COMPFEST14HackerClass|
