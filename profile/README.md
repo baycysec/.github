@@ -34,6 +34,30 @@
 
 </details>
 
+
+
+## WRITEUPS
+
+<details>
+
+<summary> LINK </summary>
+<br>
+
+|picoCTF|
+|:--:|
+|[Click Here](https://github.com/Bread-Yolk/bayctfwu)|
+
+|CTFLEARN|
+|:------:|
+|[Click Here](https://github.com/Bread-Yolk/ctflearnwu)|
+
+|COMPFEST14HackerClass|
+|:-------------------:|
+|[Click Here](https://github.com/Bread-Yolk/compfest14hackerclass)|
+
+
+
+</details>
 ## CONTACT US
 
 #### baycorp22@gmail.com
