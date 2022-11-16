@@ -24,8 +24,8 @@
 |:------:|:---------:|:--------:|
 |[jon-brandy](https://github.com/jon-brandy)|Forensics - Binary Exploitation|College Student - Mentor|
 |[Q](https://github.com/tkxldk)|Cryptography - Forensics|College Student - Designer|
-|[RioFerdinand25](https://github.com/RioFerdinand25)|Forensics|College Student|
-|[Antonyous10](https://github.com/Antonyous10)|Cryptography|College Student|
+|[RioFerdinand25](https://github.com/RioFerdinand25)|Forensics|College Student - Mentor|
+|[Antonyous10](https://github.com/Antonyous10)|Cryptography|College Student - Mentor|
 |[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|College Student - Entrepreneur|
 |[stephanchandra](https://github.com/stephanchandra)|Cryptography|College Student - Mentor|
 |[SSV132](https://github.com/SSV132)|Forensics - Reverse Engineering|College Student - Web Developer|
