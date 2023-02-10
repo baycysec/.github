@@ -30,6 +30,7 @@
 |[stephanchandra](https://github.com/stephanchandra)|Cryptography|College Student - Mentor|
 |[SSV132](https://github.com/SSV132)|Forensics - Reverse Engineering|College Student - Web Developer|
 |[ArkynGenics](https://github.com/ArkynGenics)|Web Exploitation|Web Developer - Pentester|
+|[ptr173](https://github.com/ptr173)|Web Exploitation|College Student|
 
 </details>
 
