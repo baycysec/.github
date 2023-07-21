@@ -20,7 +20,7 @@
 |BAY - CTF DIVISION|
 |:----------------:|  
 
-|USERNAME|HELD STREAM|Profession(s)|
+|USERNAME|STREAM HELD|Profession(s)|
 |:------:|:---------:|:--------:|
 |[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation|Bug Hunter|
 |[Q](https://github.com/tkxldk)|Cryptography - Forensics|UI/UX Designer|
