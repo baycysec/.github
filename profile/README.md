@@ -54,6 +54,19 @@
 </details>
 
 
+## MEDIUM.COM
+
+<details>
+
+  <summary> CLICK HERE </summary>
+  <br>
+  |LINK|
+  |:-----:|
+  |[Visit Medium](https://medium.com/@baycorp22)|
+  
+</details>
+
+
 ## CONTACT US
 
 #### baycorp22@gmail.com
