@@ -60,8 +60,9 @@
 
   <summary> CLICK HERE </summary>
   <br>
+  
   |LINK|
-  |:-----:|
+  |:--:|
   |[Visit Medium](https://medium.com/@baycorp22)|
   
 </details>
