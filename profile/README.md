@@ -36,38 +36,3 @@
 
 </details>
 
-
-
-## WRITEUPS
-
-<details>
-
-<summary> CLICK HERE </summary>
-<br>
-
-|picoCTF|CTFLEARN|Hackthebox|
-|:-----:|:------:|:--------:|
-|[Click Here](https://github.com/jon-brandy/CTF-WRITE-UP)|[Click Here](https://github.com/Bread-Yolk/ctflearnwu)|[Click Here](https://github.com/Bread-Yolk/hackthebox)|
-
-
-
-</details>
-
-
-## MEDIUM.COM
-
-<details>
-
-  <summary> CLICK HERE </summary>
-  <br>
-  
-|LINK|
-|:--:|
-|[Visit Medium](https://medium.com/@baycorp22)|
-  
-</details>
-
-
-## CONTACT US
-
-#### baycorp22@gmail.com
