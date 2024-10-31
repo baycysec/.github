@@ -42,7 +42,7 @@
 
 |Banner|Poster|
 |:---------:|:-----------------------:|
-|<img src="static/assets/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="profile/assets/img/poster.png" width="200"> |
+|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="profile/assets/img/poster.png" width="200"> |
 
 ### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
 
