@@ -36,9 +36,7 @@
 
 </details>
 
-<details>
-  <summary>Summary of Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)</summary>
-
+## Summary of Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)</summary>
 
 ### Cyberyolk CTF 2023
 
