@@ -42,11 +42,11 @@
 
 |Banner|Poster|
 |:---------:|:-----------------------:|
-|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="profile/assets/img/poster.png" width="200"> |
+|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="profile/assets/img/cby-poster.png" width="200"> |
 
-### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
+#### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
 
-|Announcement|PDF Report|
+|The Creator|Appreciation Post for All the Challenge Author|
 |:---------:|:-----------------------:|
-|<img src="static/assets/demo.gif" width="550"> | <img src="static/assets/portrait.gif" width="200"> |
+|<img src="profile/assets/img/THE TEAM.png" width="550"> | <img src="profile/assets/img/linkedin-appreciation.png" width="200"> |
 
