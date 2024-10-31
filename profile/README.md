@@ -36,9 +36,17 @@
 
 </details>
 
+----
+
 ## Summary of Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)</summary>
 
 ### Cyberyolk CTF 2023
+
+<p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
+
+<p align="justify">This CTF follows a Jeopardy theme, featuring a variety of categories including Binary Exploitation, Cryptography, Computer Forensics, OSINT, Reverse Engineering, and Web Exploitation. With this theme and range of categories, participants have the opportunity to sharpen diverse technical skills in cybersecurity.</p>
+
+<p align="justify">In addition to the exciting competition experience, Cyberyolk also offers attractive incentives for participants. Prizes will be awarded to those who secure positions 1, 2, and 3 as an added motivation to strive harder. Winners will also receive an e-certificate as a prestigious acknowledgment they can add to their portfolio.</p>
 
 #### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
 
