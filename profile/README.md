@@ -48,7 +48,7 @@
 
 |The Creator|CBY Mascot|
 |:---------:|:-----------------------:|
-|<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |
+|<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/data.png" width="500"> |
 
 |Appreciation Post for All the Challenge Author|
 |:-----------------------:|
