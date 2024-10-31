@@ -46,7 +46,10 @@
 
 #### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
 
-|The Creator|Appreciation Post for All the Challenge Author|
+|The Creator|CBY Mascot|
 |:---------:|:-----------------------:|
 |<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |
 
+|Appreciation Post for All the Challenge Author|
+|:-----------------------:|
+|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |
