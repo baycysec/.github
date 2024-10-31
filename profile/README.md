@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>Our Past Events</summary>
+  <summary>Summary of Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)</summary>
 
 
 ### Cyberyolk CTF 2023
@@ -52,10 +52,6 @@
 |:--------------------------------------------:|:----------------------:|
 |<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="500">|
 
-|Awarding Announcement for the Winner|Scoreboard top 10|
-:-----------------------------------:|:---------------:|
-|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="500">|
-
 |Banner|Scoreboard for Top 10 Users|
 |:----:|:-------------------------:|
 |<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="500"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="560"> |
@@ -63,4 +59,9 @@
 |Dashboard|Challs Page|
 |:-------:|:---------:|
 |<img src="/profile/assets/img/DASHBOARD CBY 2023.png" width="500">|<img src="/profile/assets/img/DASHBOARD CHALLS CBY 2023.png" width="500">|
+
+|Awarding Announcement for the Winner|
+:-----------------------------------:|
+|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|
+
 </details>
