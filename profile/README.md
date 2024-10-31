@@ -36,13 +36,16 @@
 
 </details>
 
-## Our Past Events
+<details>
+  <summary>Our Past Events</summary>
+
 
 ### Cyberyolk CTF 2023
 
-|Banner|Poster|
-|:---------:|:-----------------------:|
-|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="/profile/assets/img/cby-poster.png" width="200"> |
+|Banner|Scoreboard for Top 10 Users|
+|:----:|:-------------------------:|
+|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="500"> |
+
 
 #### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
 
@@ -50,6 +53,13 @@
 |:---------:|:-----------------------:|
 |<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/data.png" width="500"> |
 
-|Appreciation Post for All the Challenge Author|Awarding Announcement for the Winner|
-|:--------------------------------------------:|:----------------------------------:|
-|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|
+|Appreciation Post for All the Challenge Author|Lab & Competition Poster|
+|:--------------------------------------------:|:----------------------:|
+|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="200">|
+
+|Awarding Announcement for the Winner|Scoreboard top 10|
+:-----------------------------------:|:---------------:|
+|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="500">|
+
+
+</details>
