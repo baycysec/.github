@@ -48,7 +48,7 @@
 
 <p align="justify">In addition to the exciting competition experience, Cyberyolk also offers attractive incentives for participants. Prizes will be awarded to those who secure positions 1, 2, and 3 as an added motivation to strive harder. Winners will also receive an e-certificate as a prestigious acknowledgment they can add to their portfolio.</p>
 
-#### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
+#### [Google Sites](https://sites.google.com/view/cyberyolk/home) [Our LinkedIn Page](https://www.linkedin.com/company/thebayclub/)
 
 |The Creator|CBY Mascot|
 |:---------:|:-----------------------:|
