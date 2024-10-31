@@ -44,7 +44,7 @@
 
 |Banner|Scoreboard for Top 10 Users|
 |:----:|:-------------------------:|
-|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="550"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="500"> |
+|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="500"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="560"> |
 
 
 #### [Google Sites](https://sites.google.com/view/cyberyolk/home) 
@@ -55,11 +55,13 @@
 
 |Appreciation Post for All the Challenge Author|Lab & Competition Poster|
 |:--------------------------------------------:|:----------------------:|
-|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="200">|
+|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="500">|
 
 |Awarding Announcement for the Winner|Scoreboard top 10|
 :-----------------------------------:|:---------------:|
 |<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="500">|
 
-
+|Dashboard|
+|:-------:|
+|<img src="/profile/assets/img/DASHBOARD CHALLS CBY 2023.png" width="500">
 </details>
