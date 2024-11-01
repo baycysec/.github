@@ -17,7 +17,8 @@
 <summary> CLICK HERE </summary>
 <br>  
 
-### THE FOUNDERS
+|THE FOUNDERS|
+|:----------------:|  
 
 |NAME|GITHUB ACCOUNT|LINKEDIN PAGE|
 |:--:|:------------:|:-----------:|
