@@ -10,12 +10,20 @@
 
 
 
-## AGENTS
+## FOUNDERS & AGENTS
 
 <details>
 
 <summary> CLICK HERE </summary>
 <br>  
+
+### THE FOUNDERS
+
+|NAME|GITHUB ACCOUNT|LINKEDIN PAGE|
+|:--:|:------------:|:-----------:|
+|Nicolas Saputra Gunawan|[jon-brandy](https://github.com/jon-brandy)|[LinkedIn](https://www.linkedin.com/in/nicsap/)|
+|Satya Kusuma|[Q](https://github.com/tkxldk)|[LinkedIn](https://www.linkedin.com/in/satyakusuma/)|
+|Rio Ferdinand Vindi Tanius|[RioFerdinand25](https://github.com/RioFerdinand25)|[LinkedIn](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|
 
 |BAY - CTF DIVISION|
 |:----------------:|  
