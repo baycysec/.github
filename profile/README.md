@@ -47,9 +47,14 @@
 
 ----
 
-## Summary of Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)</summary>
 
-### Cyberyolk CTF 2023
+## Our Projects
+
+<details>
+
+<summary> Cyberyolk CTF 2023 </summary>
+
+## Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
 
 <p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
 
@@ -78,5 +83,17 @@
 |Awarding Announcement for the Winner|
 :-----------------------------------:|
 |<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|
+
+</details>
+
+<details>
+
+<summary> Plaguards </summary>
+
+### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+
+|Github Page|
+|:---------:|
+|[Plaguards](https://github.com/Bread-Yolk/plaguards)]
 
 </details>
