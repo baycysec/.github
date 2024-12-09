@@ -88,12 +88,11 @@
 
 <details>
 
-<summary> Plaguards </summary>
-
-### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+<summary> Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams. </summary>
+ 
 
 |Github Page|
 |:---------:|
-|[Plaguards](https://github.com/Bread-Yolk/plaguards)]
+|[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
 </details>
