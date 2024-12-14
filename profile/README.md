@@ -28,6 +28,9 @@
 
 |Graphic Design Artist|
 |:-------------------:|
+
+|NAME|LINKEDIN PAGE|
+|:--:|:-----------:|
 |Gede Bramanta Pandya Wisesa| [Linkedin](https://www.linkedin.com/in/gede-bramanta/)|
 
 |BAY - CTF DIVISION|
