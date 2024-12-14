@@ -10,7 +10,7 @@
 
 
 
-## FOUNDERS & AGENTS
+## THE TEAM
 
 <details>
 
@@ -25,6 +25,10 @@
 |Nicolas Saputra Gunawan|[jon-brandy](https://github.com/jon-brandy)|[LinkedIn](https://www.linkedin.com/in/nicsap/)|
 |Satya Kusuma|[Q](https://github.com/tkxldk)|[LinkedIn](https://www.linkedin.com/in/satyakusuma/)|
 |Rio Ferdinand Vindi Tanius|[RioFerdinand25](https://github.com/RioFerdinand25)|[LinkedIn](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|
+
+|Graphic Design Artist|
+|:-------------------:|
+|Gede Bramanta Pandya Wisesa| [Linkedin](https://www.linkedin.com/in/gede-bramanta/)|
 
 |BAY - CTF DIVISION|
 |:----------------:|  
