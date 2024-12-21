@@ -87,9 +87,10 @@
 |:-------:|:---------:|
 |<img src="/profile/assets/img/DASHBOARD CBY 2023.png" width="500">|<img src="/profile/assets/img/DASHBOARD CHALLS CBY 2023.png" width="500">|
 
-|Awarding Announcement for the Winner|
-:-----------------------------------:|
-|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|
+|Awarding Announcement for the Winner|Cyberyolk Poster at BINUS News|
+:-----------------------------------:|:----------------------------:|
+|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">||
+
 
 </details>
 
