@@ -44,7 +44,7 @@
 |[Antonyous10](https://github.com/Antonyous10)|Cryptography|
 |[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|
 |[stephanchandra](https://github.com/stephanchandra)|Cryptography|
-|[SSV132](https://github.com/SSV132)|Binary Exploitation|
+|[SSV132](https://github.com/SSV132)|Reverse Engineering - Web Exploitation|
 |[ArkynGenics](https://github.com/ArkynGenics)|Web Exploitation|
 |[ptr173](https://github.com/ptr173)|Reverse Engineering|
 |[LawsonSchwantz](https://github.com/LawsonSchwantz)|Reverse Engineering - Cryptography|
