@@ -89,7 +89,7 @@
 
 |Awarding Announcement for the Winner|Cyberyolk Poster at BINUS News|
 :-----------------------------------:|:----------------------------:|
-|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="500">|
+|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="350">|
 
 
 </details>
