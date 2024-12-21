@@ -33,7 +33,7 @@
 |:--:|:-----------:|
 |Gede Bramanta Pandya Wisesa| [Linkedin](https://www.linkedin.com/in/gede-bramanta/)|
 
-|BAY - CTF DIVISION|
+|BAY - CTF AGENTS|
 |:----------------:|  
 
 |USERNAME|STREAM HELD|
