@@ -59,7 +59,7 @@
 
 <details>
 
-<summary> Vendor Projects </summary>
+<summary> Vendor Project(s) </summary>
 
 ## 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
 
