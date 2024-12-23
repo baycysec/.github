@@ -96,6 +96,19 @@
 
 <details>
 
+<summary> Kegembok </summary>
+ 
+<br>
+
+|Github Page|
+|:---------:|
+|[Kegembok](https://github.com/Bread-Yolk/kegembok)|
+
+</details>
+
+
+<details>
+
 <summary> Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams. </summary>
  
 <br>
