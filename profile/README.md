@@ -99,7 +99,7 @@
 <summary> Kegembok </summary>
  
 
-## Kegembok (Malware originally developed by [dwiyantech](https://github.com/DwiyanTech))
+## Kegembok (Ransomware Originally Developed by [dwiyantech](https://github.com/DwiyanTech))
 
 <p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
 
