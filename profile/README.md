@@ -59,9 +59,9 @@
 
 <details>
 
-<summary> Cyberyolk CTF 2023 </summary>
+<summary> Vendor Projects </summary>
 
-## Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
+## 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
 
 <p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
 
@@ -96,25 +96,18 @@
 
 <details>
 
-<summary> Kegembok </summary>
+<summary> Blue Teaming Projects </summary>
  
 
-## Kegembok (Ransomware Initially Developed by [dwiyantech](https://github.com/DwiyanTech))
+## 1. Kegembok (Ransomware Initially Developed by [dwiyantech](https://github.com/DwiyanTech))
 
 <p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
 
 |Github Page|
 |:---------:|
 |[Kegembok](https://github.com/Bread-Yolk/kegembok)|
-
-</details>
-
-
-<details>
-
-<summary> Plaguards </summary>
  
-## Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+## 2. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
 <p align="justify">Plaguards is a cutting-edge security tool built to streamline and automate the deobfuscation of obfuscated PowerShell scripts, empowering security teams to rapidly identify Indicators of Compromise (IOCs) and determine whether they represent valid threats (VT) or false positives (FP). Each analysis is documented in a comprehensive PDF report, designed to provide deep insights and actionable intelligence.</p>
 
@@ -125,3 +118,29 @@
 |[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
 </details>
+
+<details>
+
+<summary> Articles </summary>
+ 
+
+## 1. Hack The Box — Restaurant WriteUp
+
+|Link to Article|
+|:-------------:|
+|[Medium](https://medium.com/@baycorp22/hack-the-box-restaurant-writeup-28fd91ee0638)|
+ 
+## 2. Overcoming ASLR: A Guide to Conquering ret2libc Challenges with PIE
+
+|Link to Article|
+|:-------------:|
+|[Medium](https://medium.com/@baycorp22/overcoming-aslr-a-guide-to-conquering-ret2libc-challenges-with-pie-f50be91e06ea)|
+
+## 3. CyberGonCTF | autograph (pwn)
+
+|Link to Article|
+|:-------------:|
+|[Medium](https://medium.com/@baycorp22/cybergonctf-autograph-pwn-3f50385afb2d)|
+
+</details>
+
