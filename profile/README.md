@@ -149,7 +149,7 @@
 |[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Cryptography|Cyber Security Analyst - L2|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Cryptography|Junior Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Web Exploitation|Cyber Threat Intelligence & Incident Response|
-|[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Researach & Development|
+|[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Research & Development|
 |[Ahmad Dwiyan Anugrah Putra](https://www.linkedin.com/in/ahmadwiyan/)|[DwiyanTech](https://github.com/DwiyanTech)|Infrastrucure Engineering - Threat Hunting & Incident Response (THIR)|Senior Threat Hunter & Incident Response|
 
 </details>
