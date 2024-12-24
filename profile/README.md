@@ -17,7 +17,7 @@
 
 Key Focus Areas:
 
-- Blue Teaming Projects – Developing malware and engines to support cyber defense and SOC evaluations.
+- Blue Teaming Projects – Developing malware and solutions to support cyber defense and SOC evaluations.
 - CTF Challenges & Competitions – Acting as a vendor to design and host engaging Jeopardy-style events for skill-building and community growth.
 - Knowledge Sharing – Publishing comprehensive articles on cybersecurity topics via Medium to educate and inspire.
 
