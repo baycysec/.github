@@ -95,10 +95,10 @@
 |:---------:|
 |[Kegembok](https://github.com/Bread-Yolk/kegembok)|
  
+<br>
 
 </details>
 
-<br>
 
 <details>
 
@@ -134,10 +134,10 @@
 :-----------------------------------:|:----------------------------:|
 |<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="350">|
 
+<br>
 
 </details>
 
-<br>
 
 <details>
 
@@ -154,4 +154,3 @@
 
 </details>
 
-<br>
