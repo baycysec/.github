@@ -61,7 +61,7 @@
 
 <summary> Vendor Project(s) </summary>
 
-## 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
+### 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
 
 <p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
 
@@ -99,7 +99,7 @@
 <summary> Blue Teaming Projects </summary>
 
  
-## 1. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+### 1. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
 > Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 
@@ -111,13 +111,13 @@
 |:---------:|
 |[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
-## 2. JARY: An opinionated extensible language for rule creation!
+### 2. JARY: An opinionated extensible language for rule creation!
 
 > Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 
 <p align="justify">JARY is a runtime for creating .jary rules to search and correlate log data from external sources. It allows users to define structured rules that filter, match, and analyze log entries to support data analysis and automation. The JARY runtime is a lightweight library written in C that can be dynamically linked with other programs. It provides functions to compile JARY rules, feed data into the runtime, and execute the rules, all accessible from a single library through function calls. The .jary rule syntax is derived from the YARA language developed by VirusTotal.</p>
 
-## 3. Kegembok
+### 3. Kegembok
 
 > Developed by: [dwiyantech](https://github.com/DwiyanTech)
 
