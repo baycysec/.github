@@ -138,7 +138,7 @@
 
 |NAME|USERNAME|Specialization|Occupation|
 |:--:|:------:|:---------:|:--------:|
-|[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Digital Forensic & Incident Response|Cyber Security Analyst - L1|
+|[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Digital Forensic & Incident Response (DFIR)|Cyber Security Analyst - L1|
 |[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Threat Intelligence|Cyber Security Engineer|
 |[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Digital Forensic|Cyber Security Engineer|
 |[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|Junior Penetration Tester|
@@ -150,6 +150,7 @@
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Cryptography|Junior Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Web Exploitation|Cyber Threat Intelligence & Incident Response|
 |[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Researach & Development|
+|[Ahmad Dwiyan Anugrah Putra](https://www.linkedin.com/in/ahmadwiyan/)|[DwiyanTech](https://github.com/DwiyanTech)|Infrastrucure Engineering - Threat Hunting & Incident Response (THIR)|Senior Threat Hunter & Incident Response|
 
 </details>
 
