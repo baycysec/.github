@@ -98,6 +98,8 @@
 
 </details>
 
+<br>
+
 <details>
 
 <summary> Vendor Project(s) </summary>
@@ -135,6 +137,7 @@
 
 </details>
 
+<br>
 
 <details>
 
@@ -151,3 +154,4 @@
 
 </details>
 
+<br>
