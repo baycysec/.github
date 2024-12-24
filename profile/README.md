@@ -133,10 +133,10 @@
 |:--:|:-----------:|
 |Gede Bramanta Pandya Wisesa| [Linkedin](https://www.linkedin.com/in/gede-bramanta/)|
 
-|BAY - CTF AGENTS|
+|BOARD AGENTS|
 |:----------------:|  
 
-|NAME|USERNAME|STREAM HELD|Occupation|
+|NAME|USERNAME|CTF STREAM HELD|Occupation|
 |:--:|:------:|:---------:|:--------:|
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Forensics|Cyber Security Analyst - L1|
 |[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|OSINT - Forensics|Cyber Security Engineer|
@@ -149,6 +149,7 @@
 |[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Cryptography|Cyber Security Analyst - L2|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Cryptography|Junior Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Web Exploitation|Cyber Threat Intelligence & Incident Response|
+||[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Researach & Development|
 
 </details>
 
