@@ -16,7 +16,7 @@
 <summary> Blue Teaming Projects </summary>
 
  
-### 1. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
 > Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 
@@ -28,7 +28,7 @@
 |:---------:|
 |[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
-### 2. JARY: An opinionated extensible language for rule creation!
+### JARY: An opinionated extensible language for rule creation!
 
 > Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 
@@ -39,7 +39,7 @@
 |[JARY](https://github.com/CTRLRLTY/JARY)|
 
 
-### 3. Kegembok
+### Kegembok
 
 > Developed by: [dwiyantech](https://github.com/DwiyanTech)
 
@@ -58,7 +58,7 @@
 
 <summary> Vendor Project(s) </summary>
 
-### 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
+### Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
 
 <p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
 
