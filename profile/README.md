@@ -14,6 +14,7 @@
 
 <p align="justify">To further our mission, we share insights through Medium by creating articles on cybersecurity.</p>
 
+
 Key Focus Areas:
 
 1. Blue Teaming Projects – Developing malware and engines to support cyber defense and SOC evaluations.
