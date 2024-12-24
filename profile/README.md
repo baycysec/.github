@@ -52,7 +52,7 @@ Key Focus Areas:
 |[JARY](https://github.com/CTRLRLTY/JARY)|
 
 
-### Kegembok
+### Kegembok Ransomware
 
 > Developed by: [dwiyantech](https://github.com/DwiyanTech)
 
