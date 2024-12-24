@@ -136,11 +136,11 @@
 |BOARD AGENTS|
 |:----------------:|  
 
-|NAME|USERNAME|CTF STREAM HELD|Occupation|
+|NAME|USERNAME|Specialization|Occupation|
 |:--:|:------:|:---------:|:--------:|
-|[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Forensics|Cyber Security Analyst - L1|
-|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|OSINT - Forensics|Cyber Security Engineer|
-|[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Forensics|Cyber Security Engineer|
+|[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Digital Forensic & Incident Response|Cyber Security Analyst - L1|
+|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Threat Intelligence|Cyber Security Engineer|
+|[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Digital Forensic|Cyber Security Engineer|
 |[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|Junior Penetration Tester|
 |[Jeffrey Jingga](https://www.linkedin.com/in/jeffrey-jingga/)|[ArkynGenics](https://github.com/ArkynGenics)|Web Exploitation|Offensive Cyber Security Engineer|
 |[Pitra Winarianto](https://www.linkedin.com/in/ptrwin/)|[ptr173](https://github.com/ptr173)|Reverse Engineering|Cyber Security Engineer|
@@ -149,7 +149,7 @@
 |[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Cryptography|Cyber Security Analyst - L2|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Cryptography|Junior Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Web Exploitation|Cyber Threat Intelligence & Incident Response|
-||[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Researach & Development|
+|[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Reverse Engineering|Researach & Development|
 
 </details>
 
