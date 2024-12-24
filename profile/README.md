@@ -97,17 +97,11 @@
 <details>
 
 <summary> Blue Teaming Projects </summary>
+
  
+## 1. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
-## 1. Kegembok (Ransomware Initially Developed by [dwiyantech](https://github.com/DwiyanTech))
-
-<p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
-
-|Github Page|
-|:---------:|
-|[Kegembok](https://github.com/Bread-Yolk/kegembok)|
- 
-## 2. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+> Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 
 <p align="justify">Plaguards is a cutting-edge security tool built to streamline and automate the deobfuscation of obfuscated PowerShell scripts, empowering security teams to rapidly identify Indicators of Compromise (IOCs) and determine whether they represent valid threats (VT) or false positives (FP). Each analysis is documented in a comprehensive PDF report, designed to provide deep insights and actionable intelligence.</p>
 
@@ -117,9 +111,21 @@
 |:---------:|
 |[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
-## 3. JARY: An opinionated extensible language for rule creation!
+## 2. JARY: An opinionated extensible language for rule creation!
+
+> Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 
 <p align="justify">JARY is a runtime for creating .jary rules to search and correlate log data from external sources. It allows users to define structured rules that filter, match, and analyze log entries to support data analysis and automation. The JARY runtime is a lightweight library written in C that can be dynamically linked with other programs. It provides functions to compile JARY rules, feed data into the runtime, and execute the rules, all accessible from a single library through function calls. The .jary rule syntax is derived from the YARA language developed by VirusTotal.</p>
+
+## 3. Kegembok
+
+> Developed by: [dwiyantech](https://github.com/DwiyanTech)
+
+<p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
+
+|Github Page|
+|:---------:|
+|[Kegembok](https://github.com/Bread-Yolk/kegembok)|
  
 |Github Page|
 |:---------:|
