@@ -59,43 +59,6 @@
 
 <details>
 
-<summary> Vendor Project(s) </summary>
-
-### 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
-
-<p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
-
-<p align="justify">This CTF follows a Jeopardy theme, featuring a variety of categories including Binary Exploitation, Cryptography, Computer Forensics, OSINT, Reverse Engineering, and Web Exploitation. With this theme and range of categories, participants have the opportunity to sharpen diverse technical skills in cybersecurity.</p>
-
-<p align="justify">In addition to the exciting competition experience, Cyberyolk also offers attractive incentives for participants. Prizes will be awarded to those who secure positions 1, 2, and 3 as an added motivation to strive harder. Winners will also receive an e-certificate as a prestigious acknowledgment they can add to their portfolio.</p>
-
-#### [Google Sites](https://sites.google.com/view/cyberyolk/home) | [Our LinkedIn Page](https://www.linkedin.com/company/thebayclub/) | [Our Medium Page](https://medium.com/@baycorp22)
-
-|The Creator|CBY Mascot|
-|:---------:|:-----------------------:|
-|<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/data.png" width="500"> |
-
-|Appreciation Post for All the Challenge Author|Lab & Competition Poster|
-|:--------------------------------------------:|:----------------------:|
-|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="500">|
-
-|Banner|Scoreboard for Top 10 Users|
-|:----:|:-------------------------:|
-|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="500"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="560"> |
-
-|Dashboard|Challs Page|
-|:-------:|:---------:|
-|<img src="/profile/assets/img/DASHBOARD CBY 2023.png" width="500">|<img src="/profile/assets/img/DASHBOARD CHALLS CBY 2023.png" width="500">|
-
-|Awarding Announcement for the Winner|Cyberyolk Broadcast at BINUS News|
-:-----------------------------------:|:----------------------------:|
-|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="350">|
-
-
-</details>
-
-<details>
-
 <summary> Blue Teaming Projects </summary>
 
  
@@ -134,6 +97,44 @@
  
 
 </details>
+
+<details>
+
+<summary> Vendor Project(s) </summary>
+
+### 1. Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
+
+<p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
+
+<p align="justify">This CTF follows a Jeopardy theme, featuring a variety of categories including Binary Exploitation, Cryptography, Computer Forensics, OSINT, Reverse Engineering, and Web Exploitation. With this theme and range of categories, participants have the opportunity to sharpen diverse technical skills in cybersecurity.</p>
+
+<p align="justify">In addition to the exciting competition experience, Cyberyolk also offers attractive incentives for participants. Prizes will be awarded to those who secure positions 1, 2, and 3 as an added motivation to strive harder. Winners will also receive an e-certificate as a prestigious acknowledgment they can add to their portfolio.</p>
+
+#### [Google Sites](https://sites.google.com/view/cyberyolk/home) | [Our LinkedIn Page](https://www.linkedin.com/company/thebayclub/) | [Our Medium Page](https://medium.com/@baycorp22)
+
+|The Creator|CBY Mascot|
+|:---------:|:-----------------------:|
+|<img src="/profile/assets/img/THE TEAM.png" width="550"> | <img src="/profile/assets/img/data.png" width="500"> |
+
+|Appreciation Post for All the Challenge Author|Lab & Competition Poster|
+|:--------------------------------------------:|:----------------------:|
+|<img src="/profile/assets/img/linkedin-appreciation.png" width="500"> |<img src="/profile/assets/img/cby-poster.png" width="500">|
+
+|Banner|Scoreboard for Top 10 Users|
+|:----:|:-------------------------:|
+|<img src="/profile/assets/img/cyberyolk-lab-gsites.png" width="500"> | <img src="/profile/assets/img/SCOREBOARD TOP 10.png" width="560"> |
+
+|Dashboard|Challs Page|
+|:-------:|:---------:|
+|<img src="/profile/assets/img/DASHBOARD CBY 2023.png" width="500">|<img src="/profile/assets/img/DASHBOARD CHALLS CBY 2023.png" width="500">|
+
+|Awarding Announcement for the Winner|Cyberyolk Broadcast at BINUS News|
+:-----------------------------------:|:----------------------------:|
+|<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="350">|
+
+
+</details>
+
 
 <details>
 
