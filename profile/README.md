@@ -6,7 +6,19 @@
 
 ## About BAY
 
-<p align="justify">BAY is a computer club founded by four college students with backgrounds in cybersecurity and computer science. Established on June 22, 2022, BAY is dedicated to producing content related to the cybersecurity field on Medium, as well as engaging in Capture the Flag (CTF) competitions. Currently, our CTF division comprises 11 active members who specialize in various areas within the CTF domain.</p>
+<p align="justify">Welcome to Bread & Yolk (BAY) where innovation meets cybersecurity excellence. Established in 2022 in Jakarta, Indonesia, BAY is a dynamic cybersecurity collective dedicated to advancing the field through cutting-edge projects, impactful educational initiatives, and community engagement.</p>
+
+<p align="justify"> At BAY, we specialize in providing vendor services for Capture The Flag (CTF) challenges and competitions, leveraging our technical expertise to design intricate and high-quality scenarios that test and enhance the skills of cybersecurity professionals and enthusiasts alike. Our Jeopardy-style CTF competitions serve as a collaborative platform, fostering skill development and camaraderie within the global cybersecurity community.</p>
+
+<p align="justify">Beyond challenges, we are committed to empowering blue teams through innovative malware development and solutions for cyber defense. These projects simulate real-world attack scenarios, enabling organizations to evaluate their detection capabilities, enhance incident response workflows, and strengthen SOC operations.</p>
+
+<p align="justify">To further our mission, we share insights through Medium by creating articles on cybersecurity.</p>
+
+Key Focus Areas:
+
+1. Blue Teaming Projects – Developing malware and engines to support cyber defense and SOC evaluations.
+2. CTF Challenges & Competitions – Acting as a vendor to design and host engaging Jeopardy-style events for skill-building and community growth.
+3. Knowledge Sharing – Publishing comprehensive articles on cybersecurity topics via Medium to educate and inspire.
 
 
 ## Our Projects
