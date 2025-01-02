@@ -17,7 +17,7 @@
 
 Key Focus Areas:
 
-- Blue Teaming Projects – Developing malware and solutions to support cyber defense and SOC evaluations.
+- Blue Anvil Projects – Developing malware and solutions to support cyber defense and SOC evaluations.
 - CTF Challenges & Competitions – Acting as a vendor to design and host engaging Jeopardy-style events for skill-building and community growth.
 - Knowledge Sharing – Publishing comprehensive articles on cybersecurity topics via Medium to educate and inspire.
 
@@ -26,7 +26,7 @@ Key Focus Areas:
 
 <details>
 
-<summary> Blue Teaming Projects </summary>
+<summary> Blue Anvil Projects </summary>
 
  
 ### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
