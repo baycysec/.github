@@ -52,7 +52,13 @@ Key Focus Areas:
 
 > Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 
+[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Asia-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
+
 <p align="justify">JARY is a runtime for creating .jary rules to search and correlate log data from external sources. It allows users to define structured rules that filter, match, and analyze log entries to support data analysis and automation. The JARY runtime is a lightweight library written in C that can be dynamically linked with other programs. It provides functions to compile JARY rules, feed data into the runtime, and execute the rules, all accessible from a single library through function calls. The .jary rule syntax is derived from the YARA language developed by VirusTotal.</p>
+
+|Schedule|Details|
+|:------:|:-----:|
+|![image](![image](https://github.com/user-attachments/assets/5ccb244a-92d2-47ec-a079-b32d8ca0f900)|(![image](https://github.com/user-attachments/assets/2481f686-f539-4874-9469-18b295609de9)|
 
 |Github Page|
 |:---------:|
