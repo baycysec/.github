@@ -33,9 +33,16 @@ Key Focus Areas:
 
 > Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 
+[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
+
 <p align="justify">Plaguards is a cutting-edge security tool built to streamline and automate the deobfuscation of obfuscated PowerShell scripts, empowering security teams to rapidly identify Indicators of Compromise (IOCs) and determine whether they represent valid threats (VT) or false positives (FP). Each analysis is documented in a comprehensive PDF report, designed to provide deep insights and actionable intelligence.</p>
 
 <p align="justify">As a web app, Plaguards offers users the flexibility to conduct powerful, on-demand analysis from anywhere, at any time, making it invaluable to blue teams tasked with responding to complex malware threats. This innovation not only accelerates workflows but also enhances detection accuracy, positioning Plaguards as a vital asset in proactive threat response.</p>
+
+|Schedule|Details|
+|:------:|:-----:|
+|![image](https://github.com/user-attachments/assets/684a320d-1075-42b7-aa85-543c05ee55d2)|![image](https://github.com/user-attachments/assets/1ea79edf-5acd-4fcc-a9ad-b823bbc9065a)|
+
 
 |Github Page|
 |:---------:|
