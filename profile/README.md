@@ -41,7 +41,7 @@ Key Focus Areas:
 |:---------:|
 |[Plaguards](https://github.com/Bread-Yolk/plaguards)|
 
-### JARY: An opinionated extensible language for rule creation!
+### JARY: A Modular Data Correlation Engine
 
 > Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 
