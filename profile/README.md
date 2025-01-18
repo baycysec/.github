@@ -62,7 +62,7 @@ Key Focus Areas:
 
 |Github Page|
 |:---------:|
-|[JARY](https://github.com/CTRLRLTY/JARY)|
+|[JARY](https://github.com/Bread-Yolk/JARY)|
 
 
 ### Kegembok: A Golang-Based Ransomware for Blue Team Simulation
