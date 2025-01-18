@@ -58,7 +58,7 @@ Key Focus Areas:
 
 |Schedule|Details|
 |:------:|:-----:|
-|![image](![image](https://github.com/user-attachments/assets/5ccb244a-92d2-47ec-a079-b32d8ca0f900)|(![image](https://github.com/user-attachments/assets/2481f686-f539-4874-9469-18b295609de9)|
+|![image](https://github.com/user-attachments/assets/5ccb244a-92d2-47ec-a079-b32d8ca0f900)|![image](https://github.com/user-attachments/assets/2481f686-f539-4874-9469-18b295609de9)|
 
 |Github Page|
 |:---------:|
