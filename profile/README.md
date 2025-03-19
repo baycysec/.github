@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner2](https://user-images.githubusercontent.com/70703371/190202431-0d290b4a-e26e-41d9-983d-7643280f0712.png)
+<img src="/profile/assets/img/BAY BANNER.png">
 
 </p>
 
