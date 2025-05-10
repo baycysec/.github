@@ -31,7 +31,9 @@ Key Focus Areas:
  
 ### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
+> [!TIP]
 > Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
+> Github Page: [Plaguards](https://github.com/Bread-Yolk/plaguards)
 
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
 
@@ -44,13 +46,11 @@ Key Focus Areas:
 |![image](https://github.com/user-attachments/assets/684a320d-1075-42b7-aa85-543c05ee55d2)|![image](https://github.com/user-attachments/assets/1ea79edf-5acd-4fcc-a9ad-b823bbc9065a)|
 
 
-|Github Page|
-|:---------:|
-|[Plaguards](https://github.com/Bread-Yolk/plaguards)|
-
 ### JARY: A Modular Data Correlation Engine
 
+> [!TIP]
 > Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
+> Github Page: [JARY](https://github.com/Bread-Yolk/JARY)
 
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
 
@@ -60,20 +60,14 @@ Key Focus Areas:
 |:------:|:-----:|
 |![image](https://github.com/user-attachments/assets/5ccb244a-92d2-47ec-a079-b32d8ca0f900)|![image](https://github.com/user-attachments/assets/2481f686-f539-4874-9469-18b295609de9)|
 
-|Github Page|
-|:---------:|
-|[JARY](https://github.com/Bread-Yolk/JARY)|
-
 
 ### Kegembok: A Golang-Based Ransomware for Blue Team Simulation
 
 > Developed by: [dwiyantech](https://github.com/DwiyanTech)
 
-<p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
-
-|Kegembok|
+|Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.|
 |:------:|
-|![image](https://github.com/user-attachments/assets/74433946-2df2-4913-96d1-145c961fbd1a)|
+|![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)|
 
 
 |Github Page|
