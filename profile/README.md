@@ -126,8 +126,6 @@ Key Focus Areas:
 
 ## Meet the Team
 
-<summary> CLICK HERE </summary>
-<br>  
 
 |THE FOUNDERS|
 |:----------------:|  
