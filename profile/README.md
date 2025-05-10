@@ -62,7 +62,9 @@ Key Focus Areas:
 > #### Developed by: [dwiyantech](https://github.com/DwiyanTech)
 > Github Page: [Kegembok](https://github.com/Bread-Yolk/kegembok) 
 
-|Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.|
+<p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
+
+||
 |:------:|
 |![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)|
 
