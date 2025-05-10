@@ -186,7 +186,7 @@ Key Focus Areas:
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Binary Exploitation - Digital Forensic & Incident Response (DFIR)|Jr. Digital Forensic & Incident Response (DFIR) Consultant|
 |[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Threat Intelligence|SOC Analyst (L1)|
 |[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Digital Forensic|Cyber Security Engineer|
-|[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|Junior Penetration Tester|
+|[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Reverse Engineering - Cryptography|Jr. Offensive Security Consultant|
 |[Jeffrey Jingga](https://www.linkedin.com/in/jeffrey-jingga/)|[ArkynGenics](https://github.com/ArkynGenics)|Web Exploitation|Cyber Security Consultant|
 |[Pitra Winarianto](https://www.linkedin.com/in/ptrwin/)|[ptr173](https://github.com/ptr173)|Reverse Engineering|Network Security Engineer|
 |[Bertrand Redondo Mulyono](https://www.linkedin.com/in/bertrand-redondo-mulyono-776bb4166/)|[LawsonSchwantz](https://github.com/LawsonSchwantz)|Reverse Engineering - Cryptography|Cyber Security Consultant|
