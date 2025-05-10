@@ -44,7 +44,7 @@ Key Focus Areas:
 ### JARY: A Modular Data Correlation Engine
 
 > [!NOTE]
-> Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
+> #### Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 > Github Page: [JARY](https://github.com/Bread-Yolk/JARY)
 
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
@@ -59,7 +59,7 @@ Key Focus Areas:
 ### Kegembok: A Golang-Based Ransomware for Blue Team Simulation
 
 > [!NOTE]
-> Developed by: [dwiyantech](https://github.com/DwiyanTech)
+> #### Developed by: [dwiyantech](https://github.com/DwiyanTech)
 > Github Page: [Kegembok](https://github.com/Bread-Yolk/kegembok) 
 
 |Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.|
@@ -70,15 +70,13 @@ Key Focus Areas:
 ### HolmesGeo: A Simple Tool for IP Geolocation Check.
 
 > [!NOTE]
-> Developed by: [jon-brandy](https://github.com/jon-brandy)
+> #### Developed by: [jon-brandy](https://github.com/jon-brandy)
 > Github Page: [HolmesGeo](https://github.com/jon-brandy/HolmesGeo)
 
-<p align="justify">HolmesGeo is an open-source Python tool designed for extracting and analyzing IP addresses from various data sources. It supports input from Apache log files, CSV files, and standard input, and provides geographic and network information for each IP address. The tool can generate reports in CSV and Excel formats, making it useful for tasks such as geolocation analysis and network diagnostics. HolmesGeo is modular and can be extended to support additional data sources and formats.</p>
 
-|HolmesGeo|
+|HolmesGeo is an open-source Python tool designed for extracting and analyzing IP addresses from various data sources. It supports input from Apache log files, CSV files, and standard input, and provides geographic and network information for each IP address. The tool can generate reports in CSV and Excel formats, making it useful for tasks such as geolocation analysis and network diagnostics. HolmesGeo is modular and can be extended to support additional data sources and formats.|
 |:------:|
-|![image](https://github.com/user-attachments/assets/ac2899b0-1c27-4829-98d0-28d611d6ab02)|
-
+|![441091830-078a61db-b3ac-4dcc-a1e3-2f25a14ba274](https://github.com/user-attachments/assets/46f35a8d-1222-49cd-a3d3-909a5eb9bde6)|
 
 ----
 
