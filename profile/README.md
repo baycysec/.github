@@ -80,9 +80,7 @@ Key Focus Areas:
 |![image](https://github.com/user-attachments/assets/ac2899b0-1c27-4829-98d0-28d611d6ab02)|
 
 
-<br>
-
-<br>
+----
 
 
 ### Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
@@ -115,10 +113,8 @@ Key Focus Areas:
 :-----------------------------------:|:----------------------------:|
 |<img src="/profile/assets/img/THE CHAMPIONS.png" width="500">|<img src="/profile/assets/img/binus-news.jpg" width="350">|
 
-<br>
 
-
-<br>
+----
 
 |Article Name|Channel|Link to Article|
 |:----------|:-----:|:-------------:|
