@@ -126,8 +126,6 @@ Key Focus Areas:
 
 ## Meet the Team
 
-<details>
-
 <summary> CLICK HERE </summary>
 <br>  
 
@@ -165,6 +163,3 @@ Key Focus Areas:
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Web Exploitation|Cyber Threat Intelligence & Incident Response|
 |[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Software Engineering - Reverse Engineering|Research & Development|
 |[Ahmad Dwiyan Anugrah Putra](https://www.linkedin.com/in/ahmadwiyan/)|[DwiyanTech](https://github.com/DwiyanTech)|Infrastrucure Engineering - Threat Hunting & Incident Response (THIR)|Senior Threat Hunter & Incident Response|
-
-</details>
-
