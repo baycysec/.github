@@ -124,7 +124,8 @@ Key Focus Areas:
 
 ---
 
-## Meet the Team
+> [!TIP]
+> ## Meet the Team
 
 
 |THE FOUNDERS|
