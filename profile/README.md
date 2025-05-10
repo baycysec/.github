@@ -64,9 +64,7 @@ Key Focus Areas:
 
 <p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
 
-||
-|:------:|
-|![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)|
+![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)
 
 
 ### HolmesGeo: A Simple Tool for IP Geolocation Check.
@@ -77,9 +75,9 @@ Key Focus Areas:
 
 <p align="justify">HolmesGeo is an open-source Python tool designed for extracting and analyzing IP addresses from various data sources. It supports input from Apache log files, CSV files, and standard input, and provides geographic and network information for each IP address. The tool can generate reports in CSV and Excel formats, making it useful for tasks such as geolocation analysis and network diagnostics. HolmesGeo is modular and can be extended to support additional data sources and formats.</p>
 
-||
-|:------:|
-|![441091830-078a61db-b3ac-4dcc-a1e3-2f25a14ba274](https://github.com/user-attachments/assets/46f35a8d-1222-49cd-a3d3-909a5eb9bde6)|
+<p align="center">
+<img src="https://github.com/user-attachments/assets/46f35a8d-1222-49cd-a3d3-909a5eb9bde6" width="300">
+</p>
 
 ----
 
