@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="/profile/assets/img/BAY BANNER.png">
+<img src="/profile/assets/img/banner-23.png">
 
 
 </p>
