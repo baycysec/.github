@@ -1,7 +1,6 @@
 <p align="center">
 
 <img src="/profile/assets/img/BAY BANNER.png">
-![Uploading banner-23.png…]()
 
 
 </p>
