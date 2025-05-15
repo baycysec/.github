@@ -33,9 +33,11 @@ Key Focus Areas:
 
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
 
-<p align="justify">Plaguards is a cutting-edge security tool built to streamline and automate the deobfuscation of obfuscated PowerShell scripts, empowering security teams to rapidly identify Indicators of Compromise (IOCs) and determine whether they represent valid threats (VT) or false positives (FP). Each analysis is documented in a comprehensive PDF report, designed to provide deep insights and actionable intelligence.</p>
+<p align="justify">Plaguards is a powerful security tool that automates deobfuscation of obfuscated PowerShell scripts, helping teams quickly identify Indicators of Compromise (IOCs) and distinguish valid threats from false positives. Each analysis produces a detailed PDF report with actionable insights.</p>
 
-<p align="justify">As a web app, Plaguards offers users the flexibility to conduct powerful, on-demand analysis from anywhere, at any time, making it invaluable to blue teams tasked with responding to complex malware threats. This innovation not only accelerates workflows but also enhances detection accuracy, positioning Plaguards as a vital asset in proactive threat response.</p>
+<p align="justify">As a web app, Plaguards enables flexible, on-demand analysis from anywhere, making it invaluable for blue teams handling complex malware. It supports DFIR by improving investigation scope and attribution, efficiently processing large volumes of data to reveal malware TTPs and guide analysts to key artifacts—speeding up root cause analysis.</p>
+
+<p align="justify">For SOC teams, Plaguards reduces response time to critical alerts by quickly deobfuscating suspicious scripts, allowing faster investigation and enriched alert reports with IOC lookups, helping meet tight SLA requirements.</p>
 
 |Schedule|Details|
 |:------:|:-----:|
