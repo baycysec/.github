@@ -152,12 +152,12 @@ Key Focus Areas:
 |NAME|USERNAME|Occupation|
 |:--:|:------:|:--------:|
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Jr. Digital Forensic & Incident Response (DFIR) Consultant|
-|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|SOC Analyst (L1)|
+|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Jr. Cyber Security Analyst (L1)|
 |[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Cyber Security Engineer|
 |[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Jr. Offensive Cyber Security Consultant|
 |[Jeffrey Jingga](https://www.linkedin.com/in/jeffrey-jingga/)|[ArkynGenics](https://github.com/ArkynGenics)|Jr. Offensive Cyber Security Consultant|
 |[Pitra Winarianto](https://www.linkedin.com/in/ptrwin/)|[ptr173](https://github.com/ptr173)|Jr. Network Security Engineer|
-|[Bertrand Redondo Mulyono](https://www.linkedin.com/in/bertrand-redondo-mulyono-776bb4166/)|[LawsonSchwantz](https://github.com/LawsonSchwantz)|Cyber Security Consultant|
+|[Bertrand Redondo Mulyono](https://www.linkedin.com/in/bertrand-redondo-mulyono-776bb4166/)|[LawsonSchwantz](https://github.com/LawsonSchwantz)|Jr. Offensive Cyber Security Consultant|
 |[Steven Liem](https://www.linkedin.com/in/stevenliem312/)|[SSV132](https://github.com/SSV132)|Jr. Offensive Cyber Security Consultant|
 |[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Sr. Cyber Security Analyst (L2)|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Jr. Programmer|
@@ -165,4 +165,4 @@ Key Focus Areas:
 |[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Research & Development|
 |[Ahmad Dwiyan Anugrah Putra](https://www.linkedin.com/in/ahmadwiyan/)|[DwiyanTech](https://github.com/DwiyanTech)|Sr. Threat Hunter & Incident Response|
 |[Matthew Kurniawan](https://www.linkedin.com/in/matthew-kurniawan3/)|[one-b1t](https://github.com/one-b1t)|Jr. Penetration Tester|
-|[Benedicto Marvelous Alidajaya](https://www.linkedin.com/in/ben4li/)|[Benedicto]()|System Analyst|
+|[Benedicto Marvelous Alidajaya](https://www.linkedin.com/in/ben4li/)|[Marvel000000](https://github.com/Marvel000000)|System Analyst|
