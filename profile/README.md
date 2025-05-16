@@ -162,7 +162,7 @@ Key Focus Areas:
 |[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Sr. Cyber Security Analyst (L2)|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Jr. Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Cyber Threat Intelligence & Incident Response|
-|[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|Research & Development|
+|[Muhammad Raznan](https://www.linkedin.com/in/muhammad-raznan-333802251/)|[CTRLRLTY](https://github.com/CTRLRLTY)|AI / ML Engineer|
 |[Ahmad Dwiyan Anugrah Putra](https://www.linkedin.com/in/ahmadwiyan/)|[DwiyanTech](https://github.com/DwiyanTech)|Sr. Threat Hunter & Incident Response (THIR) Consultant|
 |[Matthew Kurniawan](https://www.linkedin.com/in/matthew-kurniawan3/)|[one-b1t](https://github.com/one-b1t)|Jr. Penetration Tester|
 |[Benedicto Marvelous Alidajaya](https://www.linkedin.com/in/ben4li/)|[Marvel000000](https://github.com/Marvel000000)|System Analyst|
