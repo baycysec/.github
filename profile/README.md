@@ -149,8 +149,8 @@ Key Focus Areas:
 |BOARD AGENTS|
 |:----------------:|  
 
-|NAME|USERNAME|Specialization|Occupation|
-|:--:|:------:|:---------:|:--------:|
+|NAME|USERNAME|Occupation|
+|:--:|:------:|:--------:|
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Jr. Digital Forensic & Incident Response (DFIR) Consultant|
 |[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|SOC Analyst (L1)|
 |[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Cyber Security Engineer|
