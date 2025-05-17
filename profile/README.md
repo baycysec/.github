@@ -27,11 +27,19 @@ Key Focus Areas:
 
 ### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
+![PlaguardsBanner](https://github.com/user-attachments/assets/9dc6a15b-da94-4d1d-8732-c90308ff8de3)
+
+
+[![License](https://img.shields.io/badge/License-AGPLv3-purple.svg?&logo=none)](https://www.gnu.org/licenses/agpl-3.0)
+![Powershell-Deobfuscator](https://img.shields.io/badge/Powershell_Deobfuscator-blue)
+![Powershell-Deobfuscator](https://img.shields.io/badge/IOC_Checker-red)
+![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-white)
+[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
+
 > [!NOTE]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 > Github Page: [Plaguards](https://github.com/Bread-Yolk/plaguards)
 
-[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
 
 <p align="justify">Plaguards is a powerful security tool that automates deobfuscation of obfuscated PowerShell scripts, helping teams quickly identify Indicators of Compromise (IOCs) and distinguish valid threats from false positives. Each analysis produces a detailed PDF report with actionable insights.</p>
 
@@ -46,11 +54,15 @@ Key Focus Areas:
 
 ### JARY: A Modular Data Correlation Engine
 
+<p align="left">
+<img src="https://github.com/user-attachments/assets/cf0c243c-901d-4806-927d-41e44b610b18" width="300">
+</p>
+
+[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
+
 > [!NOTE]
 > #### Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 > Github Page: [JARY](https://github.com/Bread-Yolk/JARY)
-
-[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
 
 <p align="justify">JARY is a runtime for creating .jary rules to search and correlate log data from external sources. It allows users to define structured rules that filter, match, and analyze log entries to support data analysis and automation. The JARY runtime is a lightweight library written in C that can be dynamically linked with other programs. It provides functions to compile JARY rules, feed data into the runtime, and execute the rules, all accessible from a single library through function calls. The .jary rule syntax is derived from the YARA language developed by VirusTotal.</p>
 
@@ -61,16 +73,25 @@ Key Focus Areas:
 
 ### Kegembok: A Golang-Based Ransomware for Blue Team Simulation
 
+![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)
+
 > [!NOTE]
 > #### Developed by: [dwiyantech](https://github.com/DwiyanTech)
 > Github Page: [Kegembok](https://github.com/Bread-Yolk/kegembok) 
 
 <p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
 
-![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)
-
 
 ### HolmesGeo: A Simple Tool for IP Geolocation Check.
+
+![holmes-geo-banner](https://github.com/user-attachments/assets/f32fb503-5616-4334-b500-ecb449ad5e57)
+
+
+![License](https://img.shields.io/github/license/jon-brandy/HolmesGeo)
+![IP Geolocation Check](https://img.shields.io/badge/IP_Geolocation_Checker-129990)
+![CSV-EXCEL](https://img.shields.io/badge/Tabular_File_Formats-Output-2e5339)
+![IP-based threat attribution tool](https://img.shields.io/badge/IP_Based-Threat_Intelligence_Tool-644A07)
+![Plaguards Module](https://img.shields.io/badge/Plaguards_Module-white)
 
 > [!NOTE]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
@@ -78,7 +99,6 @@ Key Focus Areas:
 
 <p align="justify">HolmesGeo is an open-source Python tool designed for extracting and analyzing IP addresses from various data sources. It supports input from Apache log files, CSV files, and standard input, and provides geographic and network information for each IP address. The tool can generate reports in CSV and Excel formats, making it useful for tasks such as geolocation analysis and network diagnostics. HolmesGeo is modular and can be extended to support additional data sources and formats.</p>
 
-![holmes-geo-banner](https://github.com/user-attachments/assets/f32fb503-5616-4334-b500-ecb449ad5e57)
 
 
 ----
