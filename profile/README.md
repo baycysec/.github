@@ -25,7 +25,7 @@ Key Focus Areas:
 
 ## Our Projects
 
-### Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
+### 1. Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.
 
 ![PlaguardsBanner](https://github.com/user-attachments/assets/9dc6a15b-da94-4d1d-8732-c90308ff8de3)
 
@@ -52,7 +52,7 @@ Key Focus Areas:
 |![image](https://github.com/user-attachments/assets/684a320d-1075-42b7-aa85-543c05ee55d2)|![image](https://github.com/user-attachments/assets/1ea79edf-5acd-4fcc-a9ad-b823bbc9065a)|
 
 
-### JARY: A Modular Data Correlation Engine
+### 2. JARY: A Modular Data Correlation Engine
 
 <p align="left">
 <img src="https://github.com/user-attachments/assets/cf0c243c-901d-4806-927d-41e44b610b18" width="300">
@@ -71,7 +71,7 @@ Key Focus Areas:
 |![image](https://github.com/user-attachments/assets/5ccb244a-92d2-47ec-a079-b32d8ca0f900)|![image](https://github.com/user-attachments/assets/2481f686-f539-4874-9469-18b295609de9)|
 
 
-### Kegembok: A Golang-Based Ransomware for Blue Team Simulation
+### 3. Kegembok: A Golang-Based Ransomware for Blue Team Simulation
 
 ![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)
 
@@ -82,7 +82,7 @@ Key Focus Areas:
 <p align="justify">Kegembok is a Ransomware tools, a cross-platform (Linux, Mac, and Windows) ransomware made from the Golang programming language, encryption using AES-256-GCM, in this program you can use your own key. This program is for educational purposes only and helpful for simulation like tabletop or ransomware test.</p>
 
 
-### HolmesGeo: A Simple Tool for IP Geolocation Check.
+### 4. HolmesGeo: A Simple Tool for IP Geolocation Check.
 
 ![holmes-geo-banner](https://github.com/user-attachments/assets/f32fb503-5616-4334-b500-ecb449ad5e57)
 
