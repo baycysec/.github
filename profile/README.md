@@ -146,8 +146,7 @@ Key Focus Areas:
 
 ---
 
-> [!TIP]
-> ## Meet the Team
+## Meet the Team
 
 
 |THE FOUNDERS|
