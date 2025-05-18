@@ -168,9 +168,9 @@ Key Focus Areas:
 |Graphic Design Artist|
 |:-------------------:|
 
-|NAME|LINKEDIN PAGE|
-|:--:|:-----------:|
-|Gede Bramanta Pandya Wisesa| [Linkedin](https://www.linkedin.com/in/gede-bramanta/)|
+|NAME|Occupation|
+|:--:|:--------:|
+|[Gede Bramanta Pandya Wisesa](https://www.linkedin.com/in/gede-bramanta/)|[2D Artist & Story Writer](https://euruxia.itch.io/)|
 
 |BOARD AGENTS|
 |:----------------:|  
