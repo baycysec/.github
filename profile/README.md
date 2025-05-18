@@ -37,7 +37,7 @@ Key Focus Areas:
 ![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-white)
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
 
-> [!NOTE]
+> [!TIP]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
 > Github Page: [Plaguards](https://github.com/Bread-Yolk/plaguards)
 
@@ -61,7 +61,7 @@ Key Focus Areas:
 
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#jary---a-modular-data-correlation-engine-43640)
 
-> [!NOTE]
+> [!TIP]
 > #### Developed by: [CTRLRLTY](https://github.com/CTRLRLTY)
 > Github Page: [JARY](https://github.com/Bread-Yolk/JARY)
 
@@ -76,7 +76,7 @@ Key Focus Areas:
 
 ![kegembok_logo](https://github.com/user-attachments/assets/a4f4a842-ee5f-4c77-918c-79cd121f55b8)
 
-> [!NOTE]
+> [!TIP]
 > #### Developed by: [dwiyantech](https://github.com/DwiyanTech)
 > Github Page: [Kegembok](https://github.com/Bread-Yolk/kegembok) 
 
@@ -94,7 +94,7 @@ Key Focus Areas:
 ![IP-based threat attribution tool](https://img.shields.io/badge/IP_Based-Threat_Intelligence_Tool-644A07)
 ![Plaguards Module](https://img.shields.io/badge/Plaguards_Module-white)
 
-> [!NOTE]
+> [!TIP]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
 > Github Page: [HolmesGeo](https://github.com/jon-brandy/HolmesGeo)
 
