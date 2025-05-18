@@ -168,14 +168,14 @@ Key Focus Areas:
 |Graphic Design Artist|
 |:-------------------:|
 
-|NAME|Occupation|
+|NAME|OCCUPATION|
 |:--:|:--------:|
 |[Gede Bramanta Pandya Wisesa](https://www.linkedin.com/in/gede-bramanta/)|[2D Artist & Story Writer](https://euruxia.itch.io/)|
 
 |BOARD AGENTS|
 |:----------------:|  
 
-|NAME|USERNAME|Occupation|
+|NAME|USERNAME|OCCUPATION|
 |:--:|:------:|:--------:|
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Jr. Digital Forensic & Incident Response (DFIR) Consultant|
 |[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Jr. Cyber Security Analyst (L1)|
