@@ -170,7 +170,7 @@ Key Focus Areas:
 
 |NAME|OCCUPATION|
 |:--:|:--------:|
-|[Gede Bramanta Pandya Wisesa](https://www.linkedin.com/in/gede-bramanta/)|[2D Artist & Story Writer](s.id/euruxia)|
+|[Gede Bramanta Pandya Wisesa](https://www.linkedin.com/in/gede-bramanta/)|[2D Artist & Story Writer](S.id/euruxia)|
 
 |BOARD AGENTS|
 |:----------------:|  
