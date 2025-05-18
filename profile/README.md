@@ -1,6 +1,7 @@
 <p align="center">
 
-<img src="/profile/assets/img/banner-23.png">
+![banner-23](https://github.com/user-attachments/assets/c28d65ed-0c7e-49c0-a4b1-49e8fee1b900)
+
 
 
 </p>
