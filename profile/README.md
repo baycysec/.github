@@ -55,7 +55,7 @@ Key Focus Areas:
 
 ### 2. JARY: A Modular Data Correlation Engine
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/user-attachments/assets/cf0c243c-901d-4806-927d-41e44b610b18" width="300">
 </p>
 
@@ -106,6 +106,12 @@ Key Focus Areas:
 
 
 ### Cyberyolk CTF 2023 (Our First Campus CTF with National Standard Challenges)
+
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/efec67ec-192d-4a3f-bbc4-4e07aba948c4" width="450">
+
+</p>
 
 <p align="justify">The CTF lab at Cyberyolk is designed with national standards in mind. Each challenge in the lab is crafted by experienced problem creators, ensuring engaging and relevant challenges in today’s cybersecurity landscape. </p>
 
