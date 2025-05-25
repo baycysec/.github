@@ -36,6 +36,7 @@ Key Focus Areas:
 ![Powershell-Deobfuscator](https://img.shields.io/badge/IOC_Checker-red)
 ![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-white)
 [![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-Asia_2025-blue)](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-43739)
+[![Black Hat Arsenal](https://img.shields.io/badge/Black_Hat_Arsenal-USA_2025-blue)](https://www.blackhat.com/us-25/arsenal/schedule/index.html#plaguards-open-source-powershell-deobfuscation-and-ioc-detection-engine-for-blue-teams-47000)
 
 > [!NOTE]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy) | [LS](https://github.com/LawsonSchwantz) | [Q](https://github.com/tkxldk)
