@@ -51,6 +51,8 @@ Key Focus Areas:
 |Schedule|Details|
 |:------:|:-----:|
 |![image](https://github.com/user-attachments/assets/684a320d-1075-42b7-aa85-543c05ee55d2)|![image](https://github.com/user-attachments/assets/1ea79edf-5acd-4fcc-a9ad-b823bbc9065a)|
+|![image](https://github.com/user-attachments/assets/f78b8ed5-3132-46c1-b723-d24fd12c6fe0)|![image](https://github.com/user-attachments/assets/24da39a3-df4b-4d20-a28d-7d26f5c6c585)|
+
 
 
 ### 2. JARY: A Modular Data Correlation Engine
