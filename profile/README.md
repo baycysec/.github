@@ -99,7 +99,7 @@ Key Focus Areas:
 
 > [!NOTE]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
-> Github Page: [HolmesGeo](https://github.com/jon-brandy/HolmesGeo)
+> Github Page: [HolmesGeo](https://github.com/Bread-Yolk/HolmesGeo)
 
 <p align="justify">HolmesGeo is an open-source Python tool designed for extracting and analyzing IP addresses from various data sources. It supports input from Apache log files, CSV files, and standard input, and provides geographic and network information for each IP address. The tool can generate reports in CSV and Excel formats, making it useful for tasks such as geolocation analysis and network diagnostics. HolmesGeo is modular and can be extended to support additional data sources and formats.</p>
 
