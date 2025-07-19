@@ -196,3 +196,4 @@ Key Focus Areas:
 |[Matthew Kurniawan](https://www.linkedin.com/in/matthew-kurniawan3/)|[one-b1t](https://github.com/one-b1t)|Jr. Penetration Tester|
 |[Benedicto Marvelous Alidajaya](https://www.linkedin.com/in/ben4li/)|[Marvel000000](https://github.com/Marvel000000)|System Analyst|
 |[Achmad Daffa Fazli](https://www.linkedin.com/in/achmad-daffa-fazli-9874b0219/)|[linglungTzy](https://github.com/linglungTzy/)|Offensive Cyber Security Consultant|
+|[Chance Edrea Tedjasukmana](https://www.linkedin.com/in/chance-edrea/)|[Xovert](https://github.com/Xovert)|Independent Security Researcher|
