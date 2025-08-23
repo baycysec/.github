@@ -8,20 +8,19 @@
 
 ## About BAY
 
-<p align="justify">Welcome to Bread & Yolk (BAY) where innovation meets cybersecurity excellence. Established in 2022 in Jakarta, Indonesia, BAY is a dynamic cybersecurity collective dedicated to advancing the field through cutting-edge projects, impactful educational initiatives, and community engagement.</p>
+<p align="justify">Bread & Yolk (BAY) is a cybersecurity research group founded in 2022 in Jakarta, Indonesia. We combine business innovation with community-driven research, education, and collaboration to advance the security field.</p>
 
-<p align="justify"> At BAY, we specialize in providing vendor services for Capture The Flag (CTF) challenges and competitions, leveraging our technical expertise to design intricate and high-quality scenarios that test and enhance the skills of cybersecurity professionals and enthusiasts alike. Our Jeopardy-style CTF competitions serve as a collaborative platform, fostering skill development and camaraderie within the global cybersecurity community.</p>
+Our work is divided into two main service areas:
+🔹 Blue Anvil — delivering tabletop exercises and cyber drills to help organizations assess and strengthen their resilience.
+🔹 Hacksmiths — providing high-quality Capture The Flag (CTF) challenges and event support for learning, training, and competition.
 
-<p align="justify">Beyond challenges, we are committed to empowering blue teams through innovative malware development and solutions for cyber defense. These projects simulate real-world attack scenarios, enabling organizations to evaluate their detection capabilities, enhance incident response workflows, and strengthen SOC operations.</p>
+Beyond services, BAY actively contributes to the global security community through:
+1. Presentations at international conferences such as Black Hat.
+2. Development of DFIR tools and malware simulation projects for defensive testing.
+3. Publishing educational articles and research on Medium.
 
-<p align="justify">To further our mission, we share insights through Medium by creating articles on cybersecurity.</p>
+<p align="justify">As a non-profit collective, BAY exists to support and empower the cybersecurity community. We are driven not by profit, but by purpose — fostering collaboration, education, and innovation in an ever-evolving threat landscape.</p>
 
-
-Key Focus Areas:
-
-- Blue Anvil Projects – Developing malware and solutions to support cyber defense and SOC evaluations.
-- CTF Challenges & Competitions – Acting as a vendor to design and host engaging Jeopardy-style events for skill-building and community growth.
-- Knowledge Sharing – Publishing comprehensive articles on cybersecurity topics via Medium to educate and inspire.
 
 
 ## Our Projects
