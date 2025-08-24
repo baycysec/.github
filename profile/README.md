@@ -187,7 +187,7 @@ Beyond services, BAY actively contributes to the global security community throu
 |[Pitra Winarianto](https://www.linkedin.com/in/ptrwin/)|[ptr173](https://github.com/ptr173)|Jr. Network Security Engineer|
 |[Bertrand Redondo Mulyono](https://www.linkedin.com/in/bertrand-redondo-mulyono-776bb4166/)|[LawsonSchwantz](https://github.com/LawsonSchwantz)|Jr. Offensive Cyber Security Consultant|
 |[Steven Liem](https://www.linkedin.com/in/stevenliem312/)|[SSV132](https://github.com/SSV132)|Jr. Offensive Cyber Security Consultant|
-|[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Threat Hunter Consultant|
+|[Antonyous Mikhael Aleksander](https://www.linkedin.com/in/antonyous-mikhael-aleksander/)|[Antonyous10](https://github.com/Antonyous10)|Jr. Threat Hunter Consultant|
 |[Stephan Chandra](https://www.linkedin.com/in/stephanchandra/)|[stephanchandra](https://github.com/stephanchandra)|Jr. Programmer|
 |[Vincent Aldiandra](https://www.linkedin.com/in/vincentaldiandra/)|[Matrsixx](https://github.com/Matrsixx)|Cyber Threat Intelligence & Incident Response|
 |[Antonio Fandako](https://www.linkedin.com/in/antonio-fandako/)|[XToni007](https://github.com/XToni007)|Penetration Tester|
