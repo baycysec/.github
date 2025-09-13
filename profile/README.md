@@ -148,7 +148,6 @@ Beyond services, BAY actively contributes to the global security community throu
 
 |Article Name|Channel|Link to Article|
 |:----------|:-----:|:-------------:|
-|`Hack The Box — Restaurant WriteUp`|Medium|[LINK](https://medium.com/@baycorp22/hack-the-box-restaurant-writeup-28fd91ee0638)|
 |`Overcoming ASLR: A Guide to Conquering ret2libc Challenges with PIE`|Medium|[LINK](https://medium.com/@baycorp22/overcoming-aslr-a-guide-to-conquering-ret2libc-challenges-with-pie-f50be91e06ea)|
 |`CyberGonCTF - autograph (pwn)`|Medium|[LINK](https://medium.com/@baycorp22/cybergonctf-autograph-pwn-3f50385afb2d)|
 
