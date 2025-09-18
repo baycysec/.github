@@ -19,7 +19,7 @@ Beyond services, BAY actively contributes to the global security community throu
 2. Development of DFIR tools and malware simulation projects for defensive testing.
 3. Publishing educational articles and research on Medium.
 
-<p align="justify">As a non-profit collective, BAY exists to support and empower the cybersecurity community. We are driven not by profit, but by purpose — fostering collaboration, education, and innovation in an ever-evolving threat landscape.</p>
+<p align="justify">BAY exists to support and empower the cybersecurity community. We are driven not by profit, but by purpose — fostering collaboration, education, and innovation in an ever-evolving threat landscape.</p>
 
 
 
