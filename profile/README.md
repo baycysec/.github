@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner-23](https://github.com/user-attachments/assets/c28d65ed-0c7e-49c0-a4b1-49e8fee1b900)
+![banner-23](https://github.com/user-attachments/assets/ec43b7c5-5723-42a5-8631-68f402abdb3e)
 
 
 
