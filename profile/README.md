@@ -179,7 +179,7 @@ Beyond services, BAY actively contributes to the global security community throu
 |NAME|USERNAME|OCCUPATION|
 |:--:|:------:|:--------:|
 |[Nicolas Saputra Gunawan](https://www.linkedin.com/in/nicsap/)|[jon-brandy](https://github.com/jon-brandy)|Jr. Digital Forensic & Incident Response (DFIR) Consultant|
-|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Jr. Cyber Security Analyst (L1)|
+|[Satya Kusuma](https://www.linkedin.com/in/satyakusuma/)|[Q](https://github.com/tkxldk)|Cyber Security Analyst (L2)|
 |[Rio Ferdinand Vindi Tanius](https://www.linkedin.com/in/rio-ferdinand-vindi-tanius/)|[RioFerdinand25](https://github.com/RioFerdinand25)|Cyber Security Engineer|
 |[Mikael Wiryamanta Wijaya](https://www.linkedin.com/in/mikaelwiryamanta/)|[PlasmaRing](https://github.com/PlasmaRing)|Jr. Offensive Cyber Security Consultant|
 |[Jeffrey Jingga](https://www.linkedin.com/in/jeffrey-jingga/)|[ArkynGenics](https://github.com/ArkynGenics)|Jr. Offensive Cyber Security Consultant|
