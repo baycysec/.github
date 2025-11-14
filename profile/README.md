@@ -125,7 +125,7 @@ Beyond services, BAY actively contributes to the global security community throu
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
 > Github Page: [Sigurd](https://github.com/baycysec/sigurd)
 
-<p align="justify">Sigurd is a research-focused artifact used for digital forensics, incident response training, and CTF challenges. It exhibits advanced threat behaviors, including remote command execution, file encryption, data exfiltration, Windows persistence, and stealth techniques. Its first public sample on VirusTotal provides a historical reference for analysts.</p>
+<p align="justify">Sigurd is a research-focused **Remote Access Trojan (RAT)** used for digital forensics, incident response training, and CTF challenges. It exhibits advanced threat behaviors, including remote command execution, file encryption, data exfiltration, Windows persistence, and stealth techniques. Its first public sample on VirusTotal provides a historical reference for analysts.</p>
 
 ### 6. Artemon: A Modular Engine for Real-Time Windows Artifact Monitoring
 
@@ -154,6 +154,31 @@ Beyond services, BAY actively contributes to the global security community throu
 <p align="justify">ArteMon was created to solve a major weakness in modern DFIR: traditional tools capture only static snapshots, often missing the short-lived evidence attackers leave behind. ArteMon provides continuous, real-time visibility into core Windows artifacts—processes, registry keys, scheduled tasks, services, event logs, and more—detecting and correlating changes the moment they occur. This ensures transient traces are captured, preserved, and mapped into meaningful investigative events rather than disappearing unnoticed.</p> 
 
 <p align="justify">Its architecture extends beyond host forensics. A companion analysis module on Linux enriches findings with network intelligence, including IP context and geographic attribution derived from captured logs. This combination gives investigators faster triage, stronger timelines, and a complete picture of system behavior as attacks unfold. For educators, ArteMon offers an interactive and repeatable environment where every attacker action visibly alters system artifacts, turning abstract concepts into live, observable evidence.</p>
+
+### 7. Abyssos
+
+<p align="center">
+
+<!-- <img src="https://github.com/user-attachments/assets/9363ea28-6c4e-4859-909e-a1f4787245f7" width="9216" height="2304" alt="artemon-banner"  /> -->
+<img width="9216" height="2304" alt="abyssos-banner" src="https://github.com/user-attachments/assets/a7f1b69c-8ecb-4e46-b10f-47f24b07629f" />
+
+</p>
+
+<!-- <p align="center">
+ <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPLv3-purple.svg?&logo=none"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Windows-Live_Artifacts_Monitor-blue"></a>
+ <a href="#"><img src="https://img.shields.io/badge/IP_Geolocation_Checker-129990"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Tabular_File_Formats-Output-2e5339"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JSON-Output-F0E491"></a>
+ <a href="#"><img src="https://img.shields.io/badge/IP_Based-Threat_Intelligence_Tool-644A07"></a>
+ <a href="#"><img src="https://img.shields.io/badge/DFIR-Simulation_Exercise-3B0270"></a>
+</p> -->
+
+> [!NOTE]
+> #### Developed by: [jon-brandy](https://github.com/jon-brandy)
+> Github Page: [Abyssos](https://drive.google.com/file/d/18SixEn6qdGxi_00xSBhgZosilXImQzKr/view?usp=sharing)
+
+<p align="justify">Abyssos is a research-focused ransomware prototype designed for security analysis and educational purposes. It implements a ChaCha8-based file encryption routine and targets Windows environments, specifically focusing on user-accessible data directories. The project aims to help researchers study ransomware behavior, encryption workflows, and defensive detection strategies in a controlled setting.</p> 
 
 ----
 
