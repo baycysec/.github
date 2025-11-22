@@ -176,7 +176,7 @@ Beyond services, BAY actively contributes to the global security community throu
 
 > [!NOTE]
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
-> Github Page: [Abyssos](https://drive.google.com/file/d/18SixEn6qdGxi_00xSBhgZosilXImQzKr/view?usp=sharing)
+> Github Page: [Abyssos](https://github.com/baycysec/abyssos)
 
 <p align="justify">Abyssos is a research-focused ransomware prototype designed for security analysis and educational purposes. It implements a ChaCha8-based file encryption routine and targets Windows environments, specifically focusing on user-accessible data directories. The project aims to help researchers study ransomware behavior, encryption workflows, and defensive detection strategies in a controlled setting.</p> 
 
