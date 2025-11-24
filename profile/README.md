@@ -125,7 +125,7 @@ Beyond services, BAY actively contributes to the global security community throu
 > #### Developed by: [jon-brandy](https://github.com/jon-brandy)
 > Github Page: [Sigurd](https://github.com/baycysec/sigurd)
 
-<p align="justify">Sigurd is a research-focused **Remote Access Trojan (RAT)** used for digital forensics, incident response training, and CTF challenges. It exhibits advanced threat behaviors, including remote command execution, file encryption, data exfiltration, Windows persistence, and stealth techniques. Its first public sample on VirusTotal provides a historical reference for analysts.</p>
+<p align="justify">Sigurd is a research-focused <b>Remote Access Trojan (RAT)</b> used for digital forensics, incident response training, and CTF challenges. It exhibits advanced threat behaviors, including remote command execution, file encryption, data exfiltration, Windows persistence, and stealth techniques. Its first public sample on VirusTotal provides a historical reference for analysts.</p>
 
 ### 6. Artemon: A Modular Engine for Real-Time Windows Artifact Monitoring
 
