@@ -164,6 +164,13 @@ Beyond services, BAY actively contributes to the global security community throu
 
 </p>
 
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C_Based-0D1164"></a>
+  <a href="https://en.wikipedia.org/wiki/Ransomware"><img src="https://img.shields.io/badge/Ransomware-76153C"></a>
+  <a href="https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant" target="_blank"><img src="https://img.shields.io/badge/ChaCha-Stream_Ciphers-FF6C0C"></a>
+  <a href=""><img src="https://img.shields.io/badge/DFIR-Assessment_Purpose-640D5F"></a>
+</p>
+
 <!-- <p align="center">
  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPLv3-purple.svg?&logo=none"></a>
  <a href="#"><img src="https://img.shields.io/badge/Windows-Live_Artifacts_Monitor-blue"></a>
