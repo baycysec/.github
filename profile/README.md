@@ -108,7 +108,7 @@ Beyond services, BAY actively contributes to the global security community throu
 ### 5. Sigurd: Operation Baby Steps
 
 <p align="center">
-  <img width="250" alt="sgrd" src="https://github.com/user-attachments/assets/ba092f06-34b4-43c2-be16-533a0d688b6d" />
+  <img width="250" alt="sgrd" src="https://github.com/user-attachments/assets/412709d9-a935-4094-8e0e-02d195b42af9" />
 </p>
 
 
